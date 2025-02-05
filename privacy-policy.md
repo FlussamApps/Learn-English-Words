@@ -15,6 +15,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase](https://firebase.google.com/support/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
   
   User Input Content: The content you provide (such as queries and text) is sent to the OpenAI API for processing, and OpenAI is committed to protecting privacy per its policies.
   
@@ -48,7 +49,7 @@ The Application does not address anyone under the age of 13. The Service Provide
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2025-01-23
+This policy is effective as of 2025-02-05
 
 **Contact Us**
 
